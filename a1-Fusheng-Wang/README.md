@@ -8,7 +8,8 @@
 
 #### Augusta Ada King-Noel, Countess of Lovelace
 ```
-An extraordinary female mathematician and witer who had significant attribution to the science field and is recognized as the first computer programmer.
+"An extraordinary female mathematician and witer who had significant 
+attribution to the science field and is recognized as the first computer programmer."
 ```
 --Obituary
 She was born on _**Dec.10.1815**_ and died on _**Nov.27.1852**_.
